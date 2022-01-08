@@ -1,2 +1,3 @@
 # web-form
-Very basic form that can be used on websites
+Very basic responsive form that can be used on various web-sites.
+You can easily add/remove anything you want.
